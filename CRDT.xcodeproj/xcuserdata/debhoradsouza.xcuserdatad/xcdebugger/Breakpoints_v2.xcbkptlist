@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "294B6346-C233-48DB-9317-F33FA0DE9D27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "614555D7-9A58-4A58-B28D-07EECE0D27C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "testAddVertex()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "537DC2B1-834C-44B6-A0B0-9B58504B3F74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testRemoveVertex()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5061AF86-FD13-454D-9956-217FC146A81C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "testRemoveVertex()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E84D78-26B5-4BBE-BDBB-E282AE62278F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "removeVertex(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2F78CD9-133D-4A63-A8E5-171C833B66A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "removeVertex(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1D9701F-CA48-4A8F-BA48-915409D5E929"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "testRemoveEdge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDE8A34C-2259-46C5-9423-713B2637E597"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "testRemoveEdge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A2062E7-D16D-4383-BE66-38EAAF456DD8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "removeEdge(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CF7E99A-43E2-435E-AC51-6C542C0C3DF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "testRemoveEdge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9360EB05-5A50-4F06-8BBA-DD83B7C38139"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "testAddEdge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B265C9D1-1BF3-4500-AB88-761B5EE5F8EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "testIsVertexPresent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "061FB51B-2ECF-4730-B66F-3F5C68FFC660"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "testGetVertices()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9050DF9-3CE5-424D-9A59-E9B6C2F4E709"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "isVertexPresent(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9050DF9-3CE5-424D-9A59-E9B6C2F4E709 - 82b366bf3818d85d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDT.P2PGraph.isVertexPresent(CRDT.Vertex&lt;A&gt;) -&gt; Swift.Bool"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "545">
+               </Location>
+               <Location
+                  uuid = "C9050DF9-3CE5-424D-9A59-E9B6C2F4E709 - 6e7035e7f71173b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((key: A, value: Swift.Double)) -&gt; Swift.Bool in CRDT.P2PGraph.isVertexPresent(CRDT.Vertex&lt;A&gt;) -&gt; Swift.Bool"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  uuid = "C9050DF9-3CE5-424D-9A59-E9B6C2F4E709 - 67654a5503464cc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDTTests.P2PGraph.isVertexPresent(CRDTTests.Vertex&lt;A&gt;) -&gt; Swift.Bool"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "545">
+               </Location>
+               <Location
+                  uuid = "C9050DF9-3CE5-424D-9A59-E9B6C2F4E709 - c79e290d2db698c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((key: A, value: Swift.Double)) -&gt; Swift.Bool in CRDTTests.P2PGraph.isVertexPresent(CRDTTests.Vertex&lt;A&gt;) -&gt; Swift.Bool"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "247">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "855E5B6D-E5D3-4A61-B22E-4FF66CE81AA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "getVertices(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "855E5B6D-E5D3-4A61-B22E-4FF66CE81AA6 - 5c10f935c5234d93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDT.P2PGraph.getVertices(for: CRDT.Vertex&lt;A&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;CRDT.Vertex&lt;A&gt;&gt;&gt;"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "855E5B6D-E5D3-4A61-B22E-4FF66CE81AA6 - c95189d24713dcff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: CRDT.Edge&lt;A&gt;, value: Swift.Double)) -&gt; Swift.Bool in CRDT.P2PGraph.getVertices(for: CRDT.Vertex&lt;A&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;CRDT.Vertex&lt;A&gt;&gt;&gt;"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "855E5B6D-E5D3-4A61-B22E-4FF66CE81AA6 - eb4c031c41dae7da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDTTests.P2PGraph.getVertices(for: CRDTTests.Vertex&lt;A&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;CRDTTests.Vertex&lt;A&gt;&gt;&gt;"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "855E5B6D-E5D3-4A61-B22E-4FF66CE81AA6 - b7e2a4d2e54b78e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: CRDTTests.Edge&lt;A&gt;, value: Swift.Double)) -&gt; Swift.Bool in CRDTTests.P2PGraph.getVertices(for: CRDTTests.Vertex&lt;A&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;CRDTTests.Vertex&lt;A&gt;&gt;&gt;"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "341">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A70B095F-928F-4AFD-B739-0B8599CB5BA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/Vertex.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Vertex"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4510A60D-73BD-49FD-AA54-B155DBB376B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/Queues/Queue.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "Queue"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00BD35C5-A95D-4E99-91A2-485552EC7A7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "testBreathFirstSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C48E8581-4F7A-4E6C-AFC5-C6E2C0F650CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "testBreathFirstSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53645285-6B1F-41E4-A940-97848D42C610"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "testBreathFirstSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F54A8371-650D-46C6-9AE3-DC45D675C116"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "breadthFirstSearch(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC0534D0-6C06-4263-BF91-6576D12706DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/Queues/Queue.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "isEmpty"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF94627D-B813-469F-85E5-38AE712C9CD4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/Queues/LinkedList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "push(value:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF94627D-B813-469F-85E5-38AE712C9CD4 - 8603bec80bdfa739"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDT.LinkedList.append(value: A) -&gt; ()"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/Queues/LinkedList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "AF94627D-B813-469F-85E5-38AE712C9CD4 - b54342d5e9e88bd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDTTests.LinkedList.append(value: A) -&gt; ()"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/Queues/LinkedList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B5F088A-3956-4DA3-87FD-FC30559A615A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "breadthFirstSearch(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFA1B066-8D57-4F48-ADDE-96ABE9BEA8D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "breadthFirstSearch(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFA1B066-8D57-4F48-ADDE-96ABE9BEA8D3 - c6994dac863fb9d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDT.P2PGraph.breadthFirstSearch(CRDT.Vertex&lt;A&gt;, CRDT.Vertex&lt;A&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;CRDT.Edge&lt;A&gt;&gt;&gt;"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "2404">
+               </Location>
+               <Location
+                  uuid = "EFA1B066-8D57-4F48-ADDE-96ABE9BEA8D3 - 27637c356054b3af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDTTests.P2PGraph.breadthFirstSearch(CRDTTests.Vertex&lt;A&gt;, CRDTTests.Vertex&lt;A&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;CRDTTests.Edge&lt;A&gt;&gt;&gt;"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "2404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0FC9C90-11E1-45E9-AF78-D5388D5E8EEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "breadthFirstSearch(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A62EECD1-F2BB-4639-B9C6-2E12751AEB41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "testBreathFirstSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69A8CE3D-17CB-48F2-9B0D-3FE5540F37CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDT/P2PGraph.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "addVertex(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "69A8CE3D-17CB-48F2-9B0D-3FE5540F37CA - 35d05aa5c14ac142"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDT.P2PGraph.addVertex(CRDT.Vertex&lt;A&gt;) -&gt; CRDT.Vertex&lt;A&gt;"
+                  moduleName = "CRDT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "69A8CE3D-17CB-48F2-9B0D-3FE5540F37CA - 971239447937d882"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDTTests.P2PGraph.addVertex(CRDTTests.Vertex&lt;A&gt;) -&gt; CRDTTests.Vertex&lt;A&gt;"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDT/P2PGraph.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B690BCC6-3499-4C03-A983-78DC130605DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTGraphTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "testAddVertex()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF21D6A6-32D2-4950-8726-33B7F828796D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTMergeTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "testMerge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33D8581D-879C-497C-BB10-E633144DDF4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTMergeTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "CRDTMergeTest"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2D58B59-D17B-43FB-88EE-48BB5584130C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTMergeTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "testMerge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCB70C05-BDBF-43B9-B54F-257728FCB091"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTMergeTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "testMerge()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCB70C05-BDBF-43B9-B54F-257728FCB091 - 5323c00dc9cd5d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CRDTTests.CRDTMergeTest.testMerge() -&gt; ()"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDTTests/CRDTMergeTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "4220">
+               </Location>
+               <Location
+                  uuid = "FCB70C05-BDBF-43B9-B54F-257728FCB091 - 79a7968599081ce2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 ((key: CRDTTests.Edge&lt;Swift.String&gt;, value: Swift.Double)) -&gt; Swift.Bool in implicit closure #7 () throws -&gt; Swift.Bool in CRDTTests.CRDTMergeTest.testMerge() -&gt; ()"
+                  moduleName = "CRDTTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/debhoradsouza/Documents/Test%20Projects/CRDT/CRDTTests/CRDTMergeTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "177">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A790EA01-E0B3-4033-AE7C-54EE9627A934"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/CRDTMergeTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "testCommutative()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD50BB41-ADC3-4ECB-AB55-2D6FC7F7BA46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CRDTTests/QueueTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testQueue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
